@@ -45,9 +45,7 @@
       </template>
     </card>
 
-    <card
-      title="With initial value for start if 'value' is empty"
-    >
+    <card title="With initial value for start if 'value' is empty">
       <date-picker initial-value="2000/01/01" />
       <br />
       <date-picker type="datetime" initial-value="2000/01/01 20:45" />

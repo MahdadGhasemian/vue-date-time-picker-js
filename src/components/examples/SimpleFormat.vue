@@ -35,9 +35,7 @@
         </highlight-code>
         <!-- eslint-enable -->
         See
-        <a href="https://github.com/moment/moment/" target="_blank">
-          moment
-        </a>
+        <a href="https://github.com/moment/moment/" target="_blank"> moment </a>
       </template>
     </card>
 

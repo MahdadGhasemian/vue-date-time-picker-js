@@ -3,9 +3,7 @@
     <h1 class="text-center" style="margin-bottom: 50px">
       VUE DATE TIME PICKER
     </h1>
-    <h5 class="text-center mb-5">
-      A vue plugin to select date and time
-    </h5>
+    <h5 class="text-center mb-5">A vue plugin to select date and time</h5>
 
     <card title="Simple example">
       <date-picker locale="en,ar" format="YYYY/M/D" />

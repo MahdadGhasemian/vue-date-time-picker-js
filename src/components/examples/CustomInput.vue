@@ -8,11 +8,7 @@
       placeholder="select date"
       style="max-width:250px"
     />
-    <date-picker
-      v-model="date"
-      format="YYYY/MM/DD"
-      element="my-custom-input"
-    />
+    <date-picker v-model="date" format="YYYY/MM/DD" element="my-custom-input" />
     <code class="code">{{ date }}</code>
     <template slot="code">
       <!-- eslint-disable -->
